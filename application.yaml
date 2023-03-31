@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/igorjan2023/app.git
-    targetRevision: HEAD
+    targetRevision: master
   destination:
     server: "https://kubernetes.default.svc"
     namespace: default
